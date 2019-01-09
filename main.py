@@ -2,11 +2,11 @@
 """
 Created on Tue Jan  8 13:26:53 2019
 
-@author: melab2
+@author: Kairui Wang&David Ortiz
 """
 
-''' @file main.py
-There must be a docstring at the beginning of a Python
+## @file main.py
+'''There must be a docstring at the beginning of a Python
 source file with an @file [filename] tag in it! '''
 class MotorDriver:
     ''' This class implements a motor driver for the ME405 board. '''
